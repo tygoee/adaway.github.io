@@ -1351,6 +1351,7 @@
 # [akamaized.net]
 127.0.0.1 113vod-adaptive.akamaized.net
 127.0.0.1 appsflyer.com.akamaized.net
+127.0.0.1 cdn-ketchapp.akamaized.net
 127.0.0.1 jioads.akamaized.net
 127.0.0.1 speee-ad.akamaized.net
 127.0.0.1 statics-marketingsites-eus-ms-com.akamaized.net
